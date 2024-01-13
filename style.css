@@ -1,0 +1,22 @@
+body{
+    font-family: 'Laila', serif;
+    background-image: linear-gradient(aquamarine, aqua);
+}
+#aliens{
+    background-image: linear-gradient(#3cff3c, rgb(255, 192, 203));
+    width: 90%;
+    border-radius: 15%;
+    border: 7px;
+    box-shadow: 10px 10px 10px grey;
+    border-color: black;
+    text-align: center;
+    margin: 50px;
+    height: 60%;
+}
+.copy_right_footer{
+    position: fixed;
+    text-shadow: 5px 5px 5px rgba(182, 182.234, 182, 0.842);
+    bottom: 0px;
+    width: 100%;
+    background-color: bisque;
+}
